@@ -2,6 +2,11 @@
 .recommenders
 RemoteSystemsTempFiles/
 
+01-Enumeradores/bin
+01-Enumeradores/.settings
+01-Enumeradores/.classpath
+01-Enumeradores/.project
+
 #bin
 #.settings
 #.classpath
