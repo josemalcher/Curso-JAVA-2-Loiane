@@ -12,6 +12,7 @@ public class PassagemValorParametro {
 		System.out.println(contato);
 		System.out.println(valor);
 
+		
 		System.out.println("***** Exemplo 1");
 
 		testePassagemValorReferencia(valor, contato);
@@ -19,6 +20,7 @@ public class PassagemValorParametro {
 		System.out.println(contato);
 		System.out.println(valor);
 
+		
 		System.out.println("***** Exemplo 2");
 
 		testePassagemValorReferencia2(valor, contato);
