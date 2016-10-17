@@ -1,6 +1,6 @@
-package aula75_84_String_Comparacao;
+package aula75_84_String;
 
-public class Aula78_ {
+public class Aula78_Comparacao {
 	public static void main(String[] args) {
 
 		String ola = "Olá";
