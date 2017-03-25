@@ -12,7 +12,7 @@ public class Aula86ClasseData {
 		//milisegundos desde 1 Jan 1970
 		System.out.println(hoje.getTime());
 		
-		//Pega o dia do mês
+		//Pega o dia do mês (existe uma forma mais nova)
 		System.out.println(hoje.getDate());
 		
 		
